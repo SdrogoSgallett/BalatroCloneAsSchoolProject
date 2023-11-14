@@ -1,0 +1,3 @@
+0 : Creazione del progetto
+1 : Rispolverata di come si crea una carta
+2 : 
