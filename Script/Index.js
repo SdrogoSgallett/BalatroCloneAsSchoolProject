@@ -1,4 +1,5 @@
-function GeneraCarta(){
+//function GeneraCarta(){
+    /*
     const GameArea = document.getElementById("GameArea");
     const Carta = document.createElement("div");
     Carta.setAttribute("class","Card");
@@ -13,10 +14,11 @@ function GeneraCarta(){
     value.setAttribute("class","Black rank");
     value.innerText = "10";
     Carta.appendChild(suits);
-    Carta.appendChild(value);*/
+    Carta.appendChild(value);
     GameArea.appendChild(Carta);
 }
 function OnLoad(){
     GeneraCarta();
     GeneraCarta();
 }
+*/
